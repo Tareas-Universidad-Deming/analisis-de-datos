@@ -19,13 +19,35 @@ Este enfoque modular facilita la separación de la generación de datos y la int
 - Tener instalado Python 3.10
 - Tener instalado pip
 - Tener instalado git
-- Crear un entorno virtual (opcional) `virtualenv venv --python=python3.10`
-- Instalar las librerías necesarias: `pip install -r requirements.txt`
+- Tener instalado virtualenv (opcional - recomendado) `pip install virtualenv`
 
 ## Ejecución
-1. Clonar el repositorio: `git clone`
-2. Acceder a la carpeta del proyecto: `cd analisis de datos universidad`
-3. Ejecutar el archivo que genera los datos: `python generate_data.py`
-4. Ejecutar el archivo principal: `python main.py`
-5. Seleccionar los datos y el tipo de gráfico deseado.
-6. Visualizar y guardar los gráficos generados.
+1. Clonar el repositorio: `git clone https://github.com/Tareas-Universidad-Deming/analisis-de-datos.git`
+2. Acceder a la carpeta del proyecto: `cd analisis-de-datos`
+3. Crear un entorno virtual (opcional - recomendado) `virtualenv venv --python=python3.10`
+   - Activar el entorno virtual: <br />
+    `source venv/bin/activate` (Linux y MacOS) <br />
+    `venv\Scripts\activate` (Windows)
+4. Instalar las librerías necesarias: `pip install -r requirements.txt`
+5. Ejecutar el archivo que genera los datos: `python generate_data.py`
+6. Ejecutar el archivo principal: `python main.py`
+7. Seleccionar los datos y el tipo de gráfico deseado.
+8. Visualizar y guardar los gráficos generados.
+
+## Integrantes
+- Ruiz Navas Wilfred Junior 
+
+## Entrega
+- 13 de septiembre de 2024
+- Instituto Superior Tecnológico Universitario Corporativo Edwards Deming
+- Programación en Python - Orientado a la analítica de datos
+- Profesor: Ing. Gallardo Arias, Italo Gualberto
+- Quito, Ecuador
+- 2024
+
+## Licencia
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](https://github.com/Tareas-Universidad-Deming/analisis-de-datos/blob/main/LICENCE.md) para más detalles.
+
+![Licencia MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)
+![Versión 1.0](https://img.shields.io/badge/Versión-1.0-blue.svg)
