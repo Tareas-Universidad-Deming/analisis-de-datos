@@ -46,7 +46,7 @@ Este enfoque modular facilita la separación de la generación de datos y la int
 - 2024
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](https://github.com/Tareas-Universidad-Deming/analisis-de-datos/blob/main/LICENCE.md) para más detalles.
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](https://github.com/Tareas-Universidad-Deming/analisis-de-datos/blob/main/LICENSE.txt) para más detalles.
 
 ![Licencia MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python 3.10](https://img.shields.io/badge/Python-3.10-blue.svg)
